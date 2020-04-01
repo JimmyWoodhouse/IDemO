@@ -1,4 +1,7 @@
 # IDemO
+
+**THIS IS NOW OBSOLETE. It has been succeeded by:** https://github.com/source-engine-discord/SourceEngine.Demo
+
 Extended from CSGODemoCSV, utilises DemoInfo.
 
 Latest release **v1.1.16**: https://github.com/JamesT-W/IDemO/releases/tag/v1.1.16
